@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.col, .row, .jus{
+    text-align: justify;
+    margin-top: 25px;
+}
+.row-2{
+    padding-bottom: 25px;
+}
+.home{
+    margin-bottom: 20px;
+    background-image: url(./image/homw3.webp);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
